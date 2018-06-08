@@ -1,0 +1,15 @@
+body{
+	background-color: #333333;
+}
+
+.fa:hover{
+	cursor: pointer;
+}
+
+.yellow{
+	color: yellow;
+}
+
+#timeline-thumbnails{
+	display: none;
+}
