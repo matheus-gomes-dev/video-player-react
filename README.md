@@ -2,7 +2,7 @@
 
 Video player built with react: custom embedded timeline where you can add hotsposts to your video!
 
-![Alt Text](https://github.com/matheus-lima92/video-player-react/blob/master/img/demo.png?raw=true)
+![Alt Text](https://github.com/matheus-lima92/video-player-react/blob/master/img/preview.png?raw=true)
 
 # Instructions
 
